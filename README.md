@@ -1,4 +1,4 @@
-# Task 10 - ML Facial Recognition to Detect Mood and Suggest Songs Accordingly
+# ML Facial Recognition to Detect Mood and Suggest Songs Accordingly
 
 ## Table of Contents
 
